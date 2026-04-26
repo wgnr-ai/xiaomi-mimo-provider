@@ -1,5 +1,5 @@
 name: xiaomi_provider
 title: Xiaomi MiMo Provider
-description: Adds Xiaomi MiMo models as an LLM provider option in wgnr.ai.
+description: Adds Xiaomi MiMo models as an LLM provider option in Agent Zero.
 version: 1.0.0
 always_enabled: false
