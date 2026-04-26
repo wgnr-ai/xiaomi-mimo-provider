@@ -1,6 +1,6 @@
-# Xiaomi MiMo Provider for wgnr.ai
+# Xiaomi MiMo Provider for Agent Zero
 
-Adds [Xiaomi MiMo](https://platform.xiaomimimo.com) models as an LLM provider option in wgnr.ai.
+Adds [Xiaomi MiMo](https://platform.xiaomimimo.com) models as an LLM provider option in Agent Zero.
 
 ## Available Models
 
@@ -14,7 +14,7 @@ Models are auto-discovered from the Xiaomi API endpoint.
 
 ## Setup
 
-1. Install this plugin via the wgnr.ai Plugin Hub
+1. Install this plugin via the Agent Zero Plugin Hub
 2. Get an API key at [platform.xiaomimimo.com](https://platform.xiaomimimo.com) (free tier available)
 3. Set `XIAOMI_API_KEY` in your environment or enter it in Model Configuration → Advanced Settings
 4. Select `xiaomi` as your provider in Model Configuration
