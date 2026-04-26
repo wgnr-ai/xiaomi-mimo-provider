@@ -1,4 +1,4 @@
-# Xiaomi MiMo provider for wgnr.ai
+# Xiaomi MiMo provider for Agent Zero
 # Provider ID 'xiaomi' automatically maps to XIAOMI_API_KEY
 chat:
   xiaomi:
