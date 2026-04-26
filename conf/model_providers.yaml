@@ -1,0 +1,10 @@
+# Xiaomi MiMo provider for wgnr.ai
+# Provider ID 'xiaomi' automatically maps to XIAOMI_API_KEY
+chat:
+  xiaomi:
+    name: Xiaomi MiMo
+    litellm_provider: openai
+    models_list:
+      endpoint_url: "https://api.xiaomimimo.com/v1/models"
+    kwargs:
+      api_base: https://api.xiaomimimo.com/v1
